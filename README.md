@@ -1,7 +1,7 @@
 # cPlusPlusMiniProjects
-Working on projects where I focus more on the algorithm or the logic rather than developing applications. 
+Working on projects where I focus more on the algorithm or the logic rather than developing applications. <br />
 
-**1. Age Calculator using C++**
+**1. Age Calculator using C++**<br />
 Age Calculator is an amazing application to create as a beginner by using any programming language that you like. There are two ways to create an age calculator:<br />
 
 One way is to ask for both the current and the birthday as an input.
@@ -12,7 +12,7 @@ In the code, we are only taking the user’s date of birth instead of taking bot
 
 So this is how you can easily create an age calculator by using the C++ programming language. It is one of the amazing coding project ideas that you should try with every new programming language you learn.<br />
 
-**2. Number Guessing Game using C++**
+**2. Number Guessing Game using C++**<br />
 In a number guessing game, a random number between two numbers is selected, and you are asked to guess that random number. If you’re wrong, the output shows that you are guessing the number too high or too low. Once you guess the correct number, the game will end. You should know how to work with do-while loops in C++ before starting with this project. You can find this C++ project with the source code here.<br />
 
 A guessing game includes handling user input, using the if statement as well as looping constructs.<br />
@@ -26,7 +26,7 @@ It will then check if this number is the same as the one generated randomly by t
 If the player’s guess is not the same, then he will check if the number is higher or lower than the guess and tell the player.
 
 
-**Reverse a Number**
-Reversing the order of a number is one of the important questions you can be asked in any coding interview. So, if you want to learn how to reverse the order of digits of a number using the C++ programming language, this article is for you. To reverse a number, we need to write an algorithm to reverse the order of digits in a number. For example, if the input number is 1234, your program should output 4321.
+**3. Reverse a Number**<br />
+Reversing the order of a number is one of the important questions you can be asked in any coding interview. So, if you want to learn how to reverse the order of digits of a number using the C++ programming language, this article is for you. To reverse a number, we need to write an algorithm to reverse the order of digits in a number. For example, if the input number is 1234, your program should output 4321.<br />
 
-There are many other ways to reverse the order of a number, but the algorithm I used in the code above is the most efficient. Note that if the first n digits of the inverted number will be zero, those zeros will be discarded because according to the condition given in the while loop, the number must be greater than 0. For example, if the input number is 2000, the output is 0002, but 0002 makes no sense, this is why it is very important to use the same logic in your algorithm to invert a number as 2 instead of 0002.
+There are many other ways to reverse the order of a number, but the algorithm I used in the code above is the most efficient. Note that if the first n digits of the inverted number will be zero, those zeros will be discarded because according to the condition given in the while loop, the number must be greater than 0. For example, if the input number is 2000, the output is 0002, but 0002 makes no sense, this is why it is very important to use the same logic in your algorithm to invert a number as 2 instead of 0002.<br />
